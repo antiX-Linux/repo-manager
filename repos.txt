@@ -1,0 +1,12 @@
+Crete - http://ftp.cc.uoc.gr/mirrors/linux/mx
+Germany - http://ftp.fau.de/mxlinux-packages
+Italy - http://it.mxrepo.com
+Russia - http://mirror.truenetwork.ru/mxlinux
+Sweden - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
+The Netherlands - http://nl.mxrepo.com
+The Netherlands NLUUG - http://ftp.nluug.nl/os/Linux/distr/mxlinux
+Ecuador - http://mirror.cedia.org.ec/mx-workspace
+Taiwan - http://ftp.yzu.edu.tw/Linux/mx-workspace
+New Zealand - http://mx.debian.nz
+USA, Los Angeles - http://iso.mxrepo.com
+USA, Utah - http://repo.antixlinux.com

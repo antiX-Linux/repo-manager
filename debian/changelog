@@ -1,0 +1,37 @@
+repo-manager (0.1.5) unstable; urgency=medium
+
+  * Added Russian mirror
+  * Added NLUUG (The Netherlands) mirror
+  * Added German mirror
+
+ -- anticapitalista <antix@operamail.com>  Sat, 31 Mar 2018 19:17:34 +0300
+
+repo-manager (0.1.4) unstable; urgency=medium
+
+  * Corrected German translation
+
+ -- anticapitalista <antix@operamail.com>  Tue, 20 Mar 2018 14:32:09 +0200
+
+repo-manager (0.1.3) unstable; urgency=medium
+
+  * Full Portuguese, German, Chinese
+
+ -- anticapitalista <antix@operamail.com>  Thu, 15 Mar 2018 19:36:56 +0200
+
+repo-manager (0.1.2) unstable; urgency=medium
+
+  * updated translations
+
+ -- anticapitalista <antix@operamail.com>  Sat, 03 Mar 2018 01:16:22 +0200
+
+repo-manager (0.1.1) unstable; urgency=medium
+
+  * testing version
+
+ -- anticapitalista <antix@operamail.com>  Fri, 23 Feb 2018 13:16:08 +0200
+
+repo-manager (0.1.0) unstable; urgency=medium
+
+  * initial release
+
+ -- anticapitalista <antix@operamail.com>  Sat, 17 Feb 2018 19:17:11 +0200

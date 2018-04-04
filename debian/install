@@ -1,0 +1,6 @@
+repo-manager 		usr/bin
+repo-manager.desktop	 	usr/share/applications
+translations/*.qm 		usr/share/repo-manager/locale
+repo-manager.png		usr/share/pixmaps
+license.html            	usr/share/doc/repo-manager
+repos.txt			usr/share/repo-manager
