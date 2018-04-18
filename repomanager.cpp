@@ -496,11 +496,14 @@ void repomanager::on_tabWidget_currentChanged()
 void repomanager::buildFlags()
 {
     flags.insert("Crete", QIcon(":/icons/gr.png"));
+    flags.insert("Colombia", QIcon(":/icons/co.png"));
     flags.insert("Ecuador", QIcon(":/icons/ec.png"));
     flags.insert("France", QIcon(":/icons/fr.png"));
-    flags.insert("Germany", QIcon(":/icons/de.png"));
+    flags.insert("Germany Aachen", QIcon(":/icons/de.png"));
+    flags.insert("Germany Erlangen", QIcon(":/icons/de.png"));
     flags.insert("Italy", QIcon(":/icons/it.png"));
     flags.insert("New Zealand", QIcon(":/icons/nz.png"));
+    flags.insert("Poland", QIcon(":/icons/pl.png"));
     flags.insert("Russia", QIcon(":/icons/ru.png"));
     flags.insert("Sweden", QIcon(":/icons/se.png"));
     flags.insert("The Netherlands", QIcon(":/icons/nl.png"));

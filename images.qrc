@@ -3,12 +3,14 @@
         <file>icons/logo.png</file>
         <file>icons/dialog-ok.svg</file>
         <file>icons/de.png</file>
+	<file>icons/co.png</file>
         <file>icons/ec.png</file>
         <file>icons/folder.png</file>
         <file>icons/fr.png</file>
         <file>icons/gr.png</file>
         <file>icons/nl.png</file>
         <file>icons/nz.png</file>
+	<file>icons/pl.png</file>
         <file>icons/se.png</file>
         <file>icons/tw.png</file>
 	<file>icons/ru.png</file>

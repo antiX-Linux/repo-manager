@@ -1,3 +1,15 @@
+repo-manager (0.1.7) unstable; urgency=medium
+
+  * polish and colombian repos added
+
+ -- anticapitalista <antix@operamail.com>  Wed, 18 Apr 2018 01:36:30 +0300
+
+repo-manager (0.1.6) unstable; urgency=medium
+
+  * Added another German mirror in Aachen
+
+ -- anticapitalista <antix@operamail.com>  Tue, 10 Apr 2018 21:02:25 +0300
+
 repo-manager (0.1.5) unstable; urgency=medium
 
   * Added Russian mirror
